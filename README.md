@@ -5,6 +5,8 @@
 - 📫 How to reach me linuslind3@gmail.com
 - 📫 My Linkedin https://www.linkedin.com/in/linus-lind/
 
+  Some repositories are for School projects/tasks and solo projects.
+
 <!---
 lainouzz/lainouzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
