@@ -18,8 +18,8 @@ I’m a gameplay programmer specializing in modular systems, player mechanics, a
 My focus is building **scalable, maintainable systems** that directly shape player experience, with strong attention to gameplay feel, clarity, and performance.
 
 I enjoy translating creative ideas into structured technical solutions that are flexible and easy to iterate on in team environments.
-
 Note that the projects might be all over the place....im doing some cleanup :P
+
 ---
 
 ## 🎯 Core Focus Areas
